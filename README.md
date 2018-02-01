@@ -2,7 +2,7 @@
 
 ```sh
 cd ~/docker
-git clone git@github.com:KilikFr/docker-portainer.git
+git clone https://github.com/KilikFr/docker-portainer.git portainer
 cd docker-portainer
 make upgrade
 ```
